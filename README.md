@@ -29,11 +29,11 @@ Upon running, the script will commence interaction with the Hume API and begin i
 Below are screenshots illustrating the main application interface and an example of a notification pop-up.
 
 <p align="center">
-  <img src="./images/img.jpg" alt="Main Application Interface" width="400">
+  <img src="./images/img.jpg" alt="Main Application Interface" width="600">
   <br>
 </p>
 <p align="center">
-  <img src="./images/notification.png" alt="Example Notification Pop-up" width="400">
+  <img src="./images/notification.png" alt="Example Notification Pop-up" width="600">
   <br>
   <em>Example Notification Pop-up</em>
 </p>
