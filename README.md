@@ -7,7 +7,7 @@ Welcome to ATTENTION, a system designed to enhance focus and maintain alertness 
 Before you begin, please ensure you have the following:
 - Python 3.6 or newer installed on your machine.
 - A valid API key from the Hume API.
-- Hume package: pip install hume
+- Hume package: 'pip install hume'
 
 ## Configuration Instructions
 To configure the ATTENTION system, please follow these steps:
