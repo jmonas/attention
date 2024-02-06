@@ -1,7 +1,7 @@
 # ATTENTION - Stay Alert with Notifications
 
 ## Introduction
-Welcome to ATTENTION, a system designed to enhance focus and maintain alertness through timely pop-up notifications. Leveraging the powerful Hume API, ATTENTION monitors your alertness levels and prompts you with reminders, such as suggesting a coffee break when it detects signs of decreased attention.
+Welcome to ATTENTION, a system designed to enhance focus and maintain alertness through timely pop-up notifications. Leveraging the powerful Hume API, ATTENTION monitors your alertness levels and prompts you to take a coffee break when it detects signs of decreased attention.
 
 ## Prerequisites
 Before you begin, please ensure you have the following:
